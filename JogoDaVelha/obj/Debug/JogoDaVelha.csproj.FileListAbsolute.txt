@@ -1,0 +1,14 @@
+C:\Users\geraldo.silva\source\repos\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\geraldo.silva\source\repos\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\geraldo.silva\source\repos\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\geraldo.silva\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojAssemblyReference.cache
+C:\Users\geraldo.silva\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\geraldo.silva\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\geraldo.silva\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+C:\Users\geraldo.silva\Downloads\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\geraldo.silva\Downloads\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\geraldo.silva\Downloads\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\geraldo.silva\Downloads\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojAssemblyReference.cache
+C:\Users\geraldo.silva\Downloads\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\geraldo.silva\Downloads\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\geraldo.silva\Downloads\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
